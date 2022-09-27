@@ -3,3 +3,4 @@ this is row two.
 version three
 
 this is under branch 'dev'
+test conflict appropriate (master)
