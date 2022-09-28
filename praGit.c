@@ -2,6 +2,7 @@
 
 int main(){
 	printf("first_ver");
-	
+	printf("abc...uncomplet");
+
 	return 0;
 }
